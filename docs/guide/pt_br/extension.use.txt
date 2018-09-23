@@ -123,6 +123,7 @@ Por exemplo:
 
 ~~~
 [php]
+<?php
 public function behaviors()
 {
 	return array(
@@ -133,6 +134,7 @@ public function behaviors()
 		),
 	);
 }
+?>
 ~~~
 
 Widget
