@@ -123,6 +123,7 @@ Por exemplo:
 
 ~~~
 [php]
+// Exemplo de comportamento
 public function behaviors()
 {
 	return array(
